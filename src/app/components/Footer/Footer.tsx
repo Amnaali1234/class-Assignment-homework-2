@@ -1,5 +1,4 @@
 import style from "./Footer.module.css"
-import react from 'react'
 const Footer = () => {
   return (
     <div>

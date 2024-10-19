@@ -1,5 +1,4 @@
 import style from "./Navbar.module.css";
-import react from 'react'
 const Navbar = () => {
   return (
     <div className= {style.container}>
