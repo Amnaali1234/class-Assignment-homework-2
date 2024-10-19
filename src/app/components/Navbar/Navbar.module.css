@@ -1,0 +1,10 @@
+.container {
+    font-size: 3rem;
+   color:mediumseagreen;
+    background-color: slateblue;
+}
+
+.heading {
+    color:rgb(42, 95, 165);
+    background-color: rgb(255, 0, 106);
+}
